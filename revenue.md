@@ -328,12 +328,13 @@ Problema de ADR → subir precios, reducir descuentos, mejorar mix
 ✖ F&B  
 
 ## § 15 Gestión de grupos y MICE
-Una cadena hotelera urbana tiene segmento corporativo/grupos. Falta:
-
-Cuándo aceptar un grupo vs proteger inventario transient
-Desplazamiento de revenue (displacement analysis)
-
-Tarifas negociadas corporativas
+El máximo de allowance (numero máximo de habitaciones que damos a un grupo), es del 50% del total de inventario del hotel. Fuera de eso consultar.
+COMO COTIZAMOS
+Si se que voy a llenar, el precio que haya en nuestra web -10% de descuento. Si vemos que son muchas habitaciones, hablar con revenue para que suba los precios.
+NUNCA SE COTIZA EN SOLO ALOJAMIENTO, MINIMO DE COTIZACIÓN ES EN ALOJAMIENTO Y DESAYUNO
+nunca se cotiza en precio comisionable, siempre el precio es neto. 
+no hay gratuidades en los grupos de ningun tipo
+Cuantos más servicios tenga un grupo, mas agresivos podemos ser. Revisar siempre que no haya desplazamiento de demanda y si lo hay, calcularlo para compensar los ingresos perdidos o dejados de ingresar con servicios de alimentos y bebidas extras (coffe breaks, comidas de empresa, etc)
 
 ## § 16 Estrategia de LOS (Length of Stay) 
 MinLOS es una herramienta crítica. 
