@@ -326,3 +326,42 @@ Problema de ADR → subir precios, reducir descuentos, mejorar mix
 ✖ Operaciones  
 ✖ Atención cliente  
 ✖ F&B  
+
+## § 15 Gestión de grupos y MICE
+Una cadena hotelera urbana tiene segmento corporativo/grupos. Falta:
+
+Cuándo aceptar un grupo vs proteger inventario transient
+Desplazamiento de revenue (displacement analysis)
+
+Tarifas negociadas corporativas
+
+## § 16 Estrategia de LOS (Length of Stay) 
+MinLOS es una herramienta crítica. 
+Señalamos las fechas clave para control de estancias. Fines de semana deberíamos tener un minimo de 2 noches. 
+
+## § 17 Calendario de demanda / eventos
+Ferias, congresos, festivos locales por ciudad. 
+23 al 25 octubre MEDIA MARATON DE VALENCIA, se llena la ciudad. Revisar cada año
+03 al 06 diciembre es la maraton de valencia, se llena la ciudad. Este año nos han reservado el hotel entero practicamente porque estaba en BAR TARIFA FLEXIBLE y tiene un release de 15 días , es decir, te pueden cancelar hasta 15 dias antes. Deberíamos haberlo puesto en NO REEMBOLSABLE. Revisar cada año
+26 junio al 4 de julio gay games, sube la demanda, pero no está siendo relevante de momento. Puntual de 2026
+30 abril al 2 de mayo es el puente de mayo, al ser el 1 fiesta y viernes, se prevé incremento en la demanda desde ese jueves día 30. Deberíamos vender con un minimo de 2-3 noches (minimo viernes y sabado) Cada año cae de distinta manera, revisar cada año
+Semana santa (01 al 05 abril 2026 Cada año cae de distinta manera, revisar cada año
+Moto gp 27, 28 y 29 de noviembre 2026. revisar cada año porque no siempre es la misma fecha
+el 31 de diciembre este año cae muy bien porque es jueves y el día 1 es fiesta, por lo que habría que vender un especial de fin de año de 4 noches minimo y tratar de vender desde el 31 de diciembre 2026 al 3 enero 2027
+
+
+
+## § 18 Política de cancelaciones — no existe
+Tenemos BAR o traifa flexible cancelable hasta 48 horas antes de la llegada del cliente. PAgo en recepción, si no has cancelado, te enviamos un link de pago para que procedas al pago. 
+Tarifas NO REEMBOLSABLES, no son cancelables en ningún canal. La unica excepción es nuestro motor de reservas MIRAI donde la política es semiflexible (no se puede cancelar pero te permitimos un cambio de fechas y adecuación a la tarifa de las nuevas fechas, si es más cara, nos tiene que pagar el cliente y si es más barata no le devolvemos nada. 
+
+## § 19 Tarifas no reembolsables vs flexibles
+
+## § 20 Distribución: coste por canal 
+EXPEDIA tiene un 18% de comisión (se descuentan la comisión y llega neto al channel y al PMS)
+BOOKING tiene alrededor de un 17% de comisión si sumamos 1l 15% y el 1,20 % porque el cliente pueda pagar en booking.com  . Llega importe bruto y en los pagos se descuentan la comisión, pero llega burto al channel y al PMS. 
+RESTO DE CANALES, alrededor de un 15% de descuento o comisión. Llega bruto al channel y al pms
+MOTOR DE RESERVAS DE MIRAI. Nos cobra un 2,15% de comisión, pero es el menor porcentaje y el cliente es nuestro. 
+
+## § 21 Cuando priorizar directo vs OTA
+Estrategia de paridad. Club de fidelidad. Salimos a la venta un entre un 5% y un 8% más barato que cualquier otro canal. Al llegara nuestra web a través de nuestro motor de reservas, te muestra un precio que es entre un 10% y un 20% más barato si te haces miembro de nuestro  club de fidelización. De esta manera procuramos salir más baratos que booking.com y no nos importa. Booking.com como contrataque nos hace una disparidad que viene porque el cliente puede pagar en booking.com, que se llama "booking paga". Esto significa que booking.com renuncia al 45%-50% de su comisión con tal de llevarse al cliente. Booking en algunos hoteles tiene un descuento a su cliente que se llama genius y el hotel compite con ese booking genius con el club de fidelización (ambos ofrecen un 10% de descuento), con la salvedad de que nuestro canal sale más barato, o procuramos salir más barato.  
