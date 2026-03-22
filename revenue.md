@@ -154,9 +154,12 @@ Antes de responder:
 
 ## § 6 · Workflow con DATARIA
 
+Basado en tu procedimiento real:
+
+
 ## Workflow con DATARIA  
 
-TAREAS DEL PROCEDIMIENTO TURIA HOTELES CON DATARIA
+TAREAS DEL PROCEDIMIENTO TURIA HOTELES CON DATARIA (TENER EN CUENTA QUE PUEDE QUE FALTE CONTEXTO PORQUE EN EL DOCUMENTO ORIGINAL HABÍA PANTALLAZOS, SI TE FALTA ALGO, PIDEMELO Y LO ARREGLAMOS)
 
 
 1.	Análisis Diario:
@@ -597,6 +600,178 @@ Podemos analizar tanto la competencia a través del rate shopper a futuro como n
 
 
  Cabe recordar que todos los KPI’S se pueden analizar exhaustivamente a través de cada una de las secciones del BI además de las cancelaciones.
+
+
+## § 7 · Estrategia de pricing
+
+- Pricing dinámico siempre
+- Ajuste por:
+  - Demanda
+  - Antelación
+  - Competencia
+- Nunca precios fijos
+
+---
+
+## § 8 · Estrategia de suplementos
+
+ERROR:
+👉 vender siempre el mismo suplemento
+
+CORRECTO:
+👉 suplemento dinámico
+
+Ejemplo:
+- Habitación superior → +20€
+- Junior suite → +45€
+
+✔ Subir suplemento en alta demanda  
+✔ Bajar suplemento en baja demanda  
+
+---
+
+## § 9 · Estrategia de upselling
+
+Objetivo:
+👉 aumentar ingreso por reserva
+
+Reglas:
+
+- Alojamiento → precio base competitivo
+- Desayuno → descuento 10-20%
+- Media pensión → descuento 15-30%
+
+---
+
+## § 10 · Upselling en recepción
+
+### VERDE (<70%)
+- Upgrade gratuito
+- Desayuno barato
+
+### AMARILLO (70%-90%)
+- Upgrade + desayuno moderado
+
+### ROJO (>90%)
+- No regalar valor
+- Vender desayuno
+
+---
+
+## § 11 · Riesgos
+
+- Guerra de precios
+- Dependencia de OTAs
+- Forecast incorrecto
+- Mala segmentación
+- Paridad rota
+- Suplementos mal gestionados
+
+---
+
+## § 12 · Errores comunes
+
+- Bajar precios sin análisis
+- Ignorar competencia
+- No analizar pickup
+- No trabajar TRevPAR
+- No usar datos
+
+---
+
+## § 13 · Ejemplo
+
+Input:
+"Alta ocupación pero bajo RevPAR"
+
+Respuesta:
+Problema de ADR → subir precios, reducir descuentos, mejorar mix
+
+---
+
+## § 14 · Uso
+
+✔ Pricing  
+✔ Forecasting  
+✔ Revenue strategy  
+✔ Upselling  
+
+✖ Operaciones  
+✖ Atención cliente  
+✖ F&B  
+
+## § 15 Gestión de grupos y MICE
+El máximo de allowance (numero máximo de habitaciones que damos a un grupo), es del 50% del total de inventario del hotel. Fuera de eso consultar.
+COMO COTIZAMOS
+Si se que voy a llenar, el precio que haya en nuestra web -10% de descuento. Si vemos que son muchas habitaciones, hablar con revenue para que suba los precios.
+NUNCA SE COTIZA EN SOLO ALOJAMIENTO, MINIMO DE COTIZACIÓN ES EN ALOJAMIENTO Y DESAYUNO
+nunca se cotiza en precio comisionable, siempre el precio es neto. 
+no hay gratuidades en los grupos de ningun tipo
+Cuantos más servicios tenga un grupo, mas agresivos podemos ser. Revisar siempre que no haya desplazamiento de demanda y si lo hay, calcularlo para compensar los ingresos perdidos o dejados de ingresar con servicios de alimentos y bebidas extras (coffe breaks, comidas de empresa, etc)
+
+## § 16 Estrategia de LOS (Length of Stay) 
+MinLOS es una herramienta crítica. 
+Señalamos las fechas clave para control de estancias. Fines de semana deberíamos tener un minimo de 2 noches. 
+
+## § 17 Calendario de demanda / eventos
+Ferias, congresos, festivos locales por ciudad. 
+23 al 25 octubre MEDIA MARATON DE VALENCIA, se llena la ciudad. Revisar cada año
+03 al 06 diciembre es la maraton de valencia, se llena la ciudad. Este año nos han reservado el hotel entero practicamente porque estaba en BAR TARIFA FLEXIBLE y tiene un release de 15 días , es decir, te pueden cancelar hasta 15 dias antes. Deberíamos haberlo puesto en NO REEMBOLSABLE. Revisar cada año
+26 junio al 4 de julio gay games, sube la demanda, pero no está siendo relevante de momento. Puntual de 2026
+30 abril al 2 de mayo es el puente de mayo, al ser el 1 fiesta y viernes, se prevé incremento en la demanda desde ese jueves día 30. Deberíamos vender con un minimo de 2-3 noches (minimo viernes y sabado) Cada año cae de distinta manera, revisar cada año
+Semana santa (01 al 05 abril 2026 Cada año cae de distinta manera, revisar cada año
+Moto gp 27, 28 y 29 de noviembre 2026. revisar cada año porque no siempre es la misma fecha
+el 31 de diciembre este año cae muy bien porque es jueves y el día 1 es fiesta, por lo que habría que vender un especial de fin de año de 4 noches minimo y tratar de vender desde el 31 de diciembre 2026 al 3 enero 2027
+
+
+
+## § 18 Política de cancelaciones — no existe
+Tenemos BAR o traifa flexible cancelable hasta 48 horas antes de la llegada del cliente. PAgo en recepción, si no has cancelado, te enviamos un link de pago para que procedas al pago. 
+Tarifas NO REEMBOLSABLES, no son cancelables en ningún canal. La unica excepción es nuestro motor de reservas MIRAI donde la política es semiflexible (no se puede cancelar pero te permitimos un cambio de fechas y adecuación a la tarifa de las nuevas fechas, si es más cara, nos tiene que pagar el cliente y si es más barata no le devolvemos nada. 
+
+## § 19 Tarifas no reembolsables vs flexibles
+
+Cuándo usar cada tarifa
+BAR / Tarifa Flexible
+Antelación corta (menos de 15-21 días)
+Periodos de baja demanda donde necesitas volumen
+Clientes corporativos o con perfil de cancelación alto
+Cuando el forecast aún tiene incertidumbre
+
+No Reembolsable
+A menos de 30 días de la llegada ofreceremos una tarifa no reembolsable de unicamente un 5% de descuento
+a mas de 30 días ofreceremos una tarifa no reembolsable que sea un 10% de descuento sobre la bar y que se llama early bird
+Ofrecemos una tarifa de un 15% de descuento sobre la bar si son 3 noches y un 20% si es  4 noches o más 
+
+Eventos de alta demanda confirmada (maratón, ferias, MotoGP...)
+Cuando el pickup indica que vas a llenar
+Fines de semana con MinLOS activo deberíamos cerrar la flexible o poner un precio muy caro para solo noche del sabado
+Si un evento llena la ciudad → obligatorio cerrar la flexible o subir su precio significativamente. La flexible en eventos = riesgo de cancelación masiva a 15 días
+
+La excepción MIRAI (que ya tienes en §18)
+
+Semi-flexible: no se cancela, pero permite cambio de fecha
+Si nueva fecha es más cara → cliente paga diferencia
+Si nueva fecha es más barata → no se devuelve nada
+
+
+¿Esto refleja tu operativa o hay matices que añadir? Por ejemplo:
+
+¿Tienes descuento específico en la NR respecto a la BAR? (habitualmente 10-15% menos)
+¿Hay canales donde solo vendes NR?
+
+## § 20 Distribución: coste por canal 
+EXPEDIA tiene un 18% de comisión (se descuentan la comisión y llega neto al channel y al PMS)
+BOOKING tiene alrededor de un 17% de comisión si sumamos 1l 15% y el 1,20 % porque el cliente pueda pagar en booking.com  . Llega importe bruto y en los pagos se descuentan la comisión, pero llega burto al channel y al PMS. 
+RESTO DE CANALES, alrededor de un 15% de descuento o comisión. Llega bruto al channel y al pms
+MOTOR DE RESERVAS DE MIRAI. Nos cobra un 2,15% de comisión, pero es el menor porcentaje y el cliente es nuestro. 
+
+## § 21 Cuando priorizar directo vs OTA
+Estrategia de paridad. Club de fidelidad. Salimos a la venta un entre un 5% y un 8% más barato que cualquier otro canal. Al llegara nuestra web a través de nuestro motor de reservas, te muestra un precio que es entre un 10% y un 20% más barato si te haces miembro de nuestro  club de fidelización. De esta manera procuramos salir más baratos que booking.com y no nos importa. Booking.com como contrataque nos hace una disparidad que viene porque el cliente puede pagar en booking.com, que se llama "booking paga". Esto significa que booking.com renuncia al 45%-50% de su comisión con tal de llevarse al cliente. Booking en algunos hoteles tiene un descuento a su cliente que se llama genius y el hotel compite con ese booking genius con el club de fidelización (ambos ofrecen un 10% de descuento), con la salvedad de que nuestro canal sale más barato, o procuramos salir más barato.  
+
+
+
+## § · Workflow con DATARIA
 
  
 
